@@ -2,7 +2,7 @@
 # Language: R
 # Input: CSV (normalized abundances)
 # Output: CSV (correlations)
-# Tested with: PluMA 1.0, R 3.2.5
+# Tested with: PluMA 1.1, R 4.0.0
 
 PluMA plugin that identifies important taxa using the LIMITS algorithm
 (Fisher and Mehta, 2014) which can infer correlations and magnitudes
